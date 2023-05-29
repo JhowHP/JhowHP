@@ -1,8 +1,8 @@
 ### Olá, tudo bem? Eu me chamo Jonnathan Henrique!👋
 
 
-- 🔭 Atualmente sigo em busca do meu primeiro emprego/estágio;
-- 🌱 Atualmente estou começando um curso de Flutter para poder aprimorar meus conhecimentos na área mobile;
+- 🔭 Atualmente trabalho como Suporte de TI na rede Novo Atacarejo;
+- 🌱 Estou iniciand um curso de Python para poder aprimorar meus conhecimentos e poder aplicar em problemas reais;
 - 📫 Contato: jonstrond@gmail.com;
 - ⚡ Curiosidades: Amante de jogos e da tecnologia...
 
