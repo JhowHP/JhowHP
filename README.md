@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente trabalho como Suporte de TI na rede Novo Atacarejo;
-- 🌱 Estou atualmente aprofundando meus conhecimentos em HTML e CSS, como também buscando conhecimento em ReactJS;
+- 🌱 Estou atualmente aprofundando meus conhecimentos em HTML e CSS, como também buscando conhecimento em React;
 - 📫 Contato: jonstrond@gmail.com;
 - ⚡ Curiosidades: Amante de jogos e da tecnologia...
 
