@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente trabalho como Analista de TI na rede Novo Atacarejo;
 - 🌱 Estou atualmente aprofundando meus conhecimentos em HTML e CSS, como também buscando conhecimento em React;
-- 📫 Contato: jonstrond@gmail.com;
+- 📫 Contato: leitaojonnathan@gmail.com;
 - ⚡ Curiosidades: Amante de jogos e da tecnologia...
 
 ##
